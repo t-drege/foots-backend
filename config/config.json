@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": null,
+    "database": "street_f",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": true
+  },
+  "test": {
+    "username": "postgres",
+    "password": null,
+    "database": "street_f",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": true
+  },
+  "production": {
+    "username": "postgres",
+    "password": null,
+    "database": "street_f",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": true
+  }
+}
